@@ -1,0 +1,360 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background: gray;
+}
+.kata img{
+    position: absolute;
+    width: 800px;
+    border-radius: 20px 20px 0 0;
+}
+.kata{
+    position: absolute;
+    width: 800px;
+    height: 2000px;
+    background: white;
+    left: 250px;
+    border-radius: 20px;
+
+}
+.katta  img{
+    position: absolute;
+    z-index: 1;
+    width: 500px;
+    left: 550px;
+    top: 20px;
+    
+}
+.a1{
+    position: absolute;
+    color: white;
+    top:20px;
+   left:300px;
+font-size: 15px;
+}
+.collection{
+    position: absolute;
+    color: white;
+    top: 20px;
+    left: 500px;
+}
+.collection il{
+    margin-left: 30px;
+}
+.sign{
+    position: absolute;
+    color: white;
+    top: 20px;
+    left: 880px;
+}
+.log{
+    position: absolute;
+    color: white;
+    background: brown;
+    width: 80px;
+    height: 30px;
+border-radius: 20px;
+top: 18px;
+left: 950px;
+}
+.log p{
+    position: absolute;
+    top: 2px;
+    left: 15px;
+}
+.a2{
+    position: absolute;
+    color: white;
+    top: 150px;
+    left: 300px;
+}
+.a3{
+    position: absolute;
+    color: white;
+    top: 280px;
+    left: 300px;
+}
+.ex{
+    position: absolute;
+    color: white;
+    background: brown;
+    width: 130px;
+    height: 50px;
+    border-radius: 20px;
+    top: 350px;
+    left: 300px;
+}
+.ex p{
+    position: absolute;
+    font-size: 18px;
+    left: 10px;
+top: 10px;
+}
+
+.box{
+    position: absolute;
+    color: white;
+    background-color: #FFFFFF40;
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    top: 100px;
+    left: 300px;
+}
+.box p{
+    position: absolute;
+    left: 15px;
+    top: 5px;
+}
+.a4{
+    position: absolute;
+    color: black;
+    top: 500px;
+    left: 300px;
+}
+.a5{
+    position: absolute;
+    color:black;
+    top: 520px;
+    left: 300px;
+}
+.a6{
+    position: absolute;
+    color: gray;
+    top: 570px;
+    left: 300px;
+}
+.box1{
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    border-radius: 20px;
+    background: brown;
+    top: 630px;
+    left: 300px;
+}
+.box1 p{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    top: 15px;
+    left: 15px;    
+}
+.res img{
+    position: absolute;
+    top: 550px;
+    width: 150px;
+    height: 200px;
+    left: 600px;
+}
+.rest img{
+    position: absolute;
+    top: 530px;
+    width: 180px;
+    height: 230px;
+    left: 770px;
+}
+.resta img{
+    position: absolute;
+    top: 530px;
+    width: 50px;
+    height: 230px;
+    left: 1000px;
+}
+.mask img{
+    position: absolute;
+    width: 300px;
+    top: 850px;
+    height: 300px;
+    left: 300px;
+}
+.a8{
+    position: absolute;
+    font-size: 35px;
+    color: black;
+    top: 850px;
+    left:650px;
+}
+.box2{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background: brown;
+    top: 950px;
+    left:630px;
+    border-radius: 50px;
+}
+.box2 img{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 5px;
+}
+.a9{
+    position: absolute;
+    color: black;
+    top: 970px;
+    left:720px;
+}
+.a10{
+    position: absolute;
+    color: gray;
+    top: 1000px;
+    left: 720px;
+}
+.a11{
+    position: absolute;
+    color: gray;
+    top: 1050px;
+    left: 650px;
+}
+.box4{
+    position: absolute;
+    color: gray;
+    top: 1100px;
+    left: 620px;
+}
+.box5{
+    position: absolute;
+    color: gray;
+    top: 1100px;
+    left: 680px;
+}
+.box6{
+    position: absolute;
+    color: gray;
+    top: 1100px;
+    left:740px;
+}
+.box7{
+    position: absolute;
+    color: gray;
+    top: 1100px;
+    left:800px;
+}
+.box8{
+    position: absolute;
+    color: gray;
+    top: 1100px;
+    left:860px;
+}
+.orta{
+    position: absolute;
+    width: 700px;
+    height: 300px;
+    background: gray;
+    left: 300px;
+    border-radius:20px ;
+    top: 1250px;
+}
+.p1{
+    position: absolute;
+    left: 190px;
+    top: 30px;
+}
+.p2{
+    position: absolute;
+    color: white;
+    top: 120px;
+    left: 200px;
+}
+.gt{
+    position: absolute;
+    color: white;
+    background: brown;
+    width: 120px;
+    height: 50px;
+    border-radius: 20px;
+    top: 1450px;
+    left: 580px;
+}
+.gt p{
+    position: absolute;
+    left: 20px;
+    top: 15px;
+}
+.gr img{
+    position: absolute;
+    top: 1270px;
+    left: 900px;
+}
+.ga img{
+    position: absolute;
+    top: 1440px;
+    left: 350px;
+}
+.p4{
+    position: absolute;
+    top: 1600px;
+    left: 500px;
+}
+.in input{
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    background-color: #C4C4C4;
+    border-radius: 20px;
+    top: 1700px;
+    left: 480px;
+    border: none;
+
+}
+.ina{
+    position: absolute;
+    background: brown;
+    width: 120px;
+    height: 50px;
+    border-radius: 20px;
+    color: white;
+    left:660px;
+
+    top: 1700px;
+}
+.ina p{
+    position: absolute;
+    font-size: 15px;
+    top: 15px;
+    left: 30px;
+}
+.oxiri{
+    position: absolute;
+    color:gray;
+    top: 1950px;
+    left: 450px;
+}
+.oxiri il{
+    margin-left: 30px;
+}
+.oxr{
+    position: absolute;
+    color:brown;
+    top: 1940px;
+    left: 300px;
+}
+.ox{
+    position: absolute;
+    color:gray;
+    top: 1950px;
+    left: 850px;
+}
+.songi{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background: brown;
+    border-radius: 20px;
+    color: white;
+    top: 1930px;
+    left: 940px;
+}
+.songi p{
+    position: absolute;
+    left: 30px;
+    top: 15px;
+    
+}
+
+
